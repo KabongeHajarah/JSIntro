@@ -3,8 +3,6 @@ let newArray=[];
 for (i=0; i<countries.length; i++){
 
 newArray.push(countries[i].toUpperCase());
-
-
 }
 console.log(newArray);
 
@@ -118,7 +116,6 @@ for (let index = 0; index <=n; index++) {
 }
 
 // Write a loop that makes the following pattern using console.log():
-
 //     #
 //     ##
 //     ###

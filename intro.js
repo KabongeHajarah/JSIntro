@@ -104,7 +104,6 @@ itCompanies.shift()
 const middleIndexs = Math.floor(itCompanies.length / 2);
 itCompanies.splice(middleIndexs, itCompanies.length % 2 === 0 ? 2 : 1);
 
-
 // Remove the last IT company from the array
 itCompanies.pop();
 
